@@ -37,7 +37,7 @@ export default function Profile() {
           Log Out
         </Button>
       </div>
-      <Link to="/">test</Link>
+      <Link to="/">To Dashboard</Link>
     </CenteredContainer>
   );
 }
